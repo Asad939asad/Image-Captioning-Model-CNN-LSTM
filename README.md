@@ -202,11 +202,6 @@ print(f"Average BLEU Score: {bleu_score:.4f}")
 - Average BLEU Score: **≈0.42**  
 - Sample Captions:  
 
-| Image | Generated Caption |
-|-------|-------------------|
-| 🖼️ Image 1 | "A dog running through the park." |
-| 🖼️ Image 2 | "A man standing next to a car." |
-| 🖼️ Image 3 | "A child playing with a dog." |
 
 ---
 
@@ -224,5 +219,3 @@ print(f"Average BLEU Score: {bleu_score:.4f}")
 🔹 Try different learning rate schedules for faster convergence.  
 
 ---
-
-Let me know if you need to modify or add anything! 😎
