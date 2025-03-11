@@ -1,4 +1,3 @@
-Here's a detailed description of the code:
 
 ---
 
